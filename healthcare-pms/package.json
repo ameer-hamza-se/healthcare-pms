@@ -1,0 +1,1 @@
+{"name":"smart-healthcare-pms","version":"1.0.0","description":"Software Project Management System for the Smart Healthcare case study (CSE-494 mid-term)","main":"server.js","engines":{"node":">=22.5"},"scripts":{"start":"node server.js","test":"node tests/run_tests.js","sample-sql":"node scripts/make_sample_sql.js"}}
